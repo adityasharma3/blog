@@ -15,6 +15,6 @@ to run on localhost:8000,
 
 ```
 sample photos:
-![alt text](https://github.com/adityyasharma/djangoblog/blob/master/blog.png?raw=true)
+![alt text](https://github.com/adityyasharma/djangoblog/blob/master/blog.png)
 
 ---
